@@ -31,18 +31,16 @@ Este é um sistema para gerenciamento de tarefas, desenvolvido com Laravel no ba
   - Excluir tarefa: DELETE /api/tarefas/{id}
   - Exemplo de resposta de uma tarefa:
   
-        ```json
-      {
-            "id_tarefa": 5,
-            "titulo": "Tarefa 5",
-            "descricao": "Descrição da tarefa 5",
-            "data_hora_criacao": "2025-01-04 16:59:42",
-            "data_hora_conclusao": null,
-            "status": "pendente",
-            "created_at": null,
-            "updated_at": null
-        },
-    ```
+          {
+                "id_tarefa": 5,
+                "titulo": "Tarefa 5",
+                "descricao": "Descrição da tarefa 5",
+                "data_hora_criacao": "2025-01-04 16:59:42",
+                "data_hora_conclusao": null,
+                "status": "pendente",
+                "created_at": null,
+                "updated_at": null
+            },
 - **Autenticação**:  - Implementada com Laravel Breeze para registro, login e logout.
 
 ### Frontend
