@@ -30,7 +30,8 @@ Este é um sistema para gerenciamento de tarefas, desenvolvido com Laravel no ba
   - Atualizar tarefa: PUT /api/tarefas/{id}
   - Excluir tarefa: DELETE /api/tarefas/{id}
   - Exemplo de resposta de uma tarefa:
-  
+
+          json
           {
                 "id_tarefa": 5,
                 "titulo": "Tarefa 5",
