@@ -116,3 +116,6 @@ Este é um sistema para gerenciamento de tarefas, desenvolvido com Laravel no ba
 
 ![image](https://github.com/user-attachments/assets/bcc6786d-c473-4adc-979e-4e4097291856)
 
+![image](https://github.com/user-attachments/assets/3010121b-6a05-401f-8fc4-6cb03bfec976)
+
+
