@@ -53,6 +53,15 @@ Este é um sistema para gerenciamento de tarefas, desenvolvido com Laravel no ba
 
 ---
 
+## Instruções de Instalação e Execução
+
+### Requisitos
+- **PHP**: >= 8.0
+- **Composer**: Para gerenciar as dependências do Laravel.
+- **Node.js e npm**: Para o frontend React.
+- **Postgres**: Banco de dados configurado e acessível.
+
+### Passos
 
 ## Configuração do Banco de Dados
     
@@ -63,15 +72,6 @@ Este é um sistema para gerenciamento de tarefas, desenvolvido com Laravel no ba
     DB_USERNAME=postgres
     DB_PASSWORD=123
 
-## Instruções de Instalação e Execução
-
-### Requisitos
-- **PHP**: >= 8.0
-- **Composer**: Para gerenciar as dependências do Laravel.
-- **Node.js e npm**: Para o frontend React.
-- **MySQL**: Banco de dados configurado e acessível.
-
-### Passos
 1. **Clone o Repositório**:
    ```bash
    git clone https://github.com/felipexavier26/task-manager.git
@@ -112,3 +112,7 @@ Este é um sistema para gerenciamento de tarefas, desenvolvido com Laravel no ba
 7. **Inicie o Servidor de Desenvolviment**:
     ```bash
     Abra o navegador em http://localhost:8000.
+
+
+![image](https://github.com/user-attachments/assets/bcc6786d-c473-4adc-979e-4e4097291856)
+
